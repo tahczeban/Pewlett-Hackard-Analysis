@@ -23,7 +23,7 @@ dept_no VARCHAR(4) NOT NULL,
     to_date DATE NOT NULL,
 FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
 FOREIGN KEY (dept_no) REFERENCES departments (dept_no),
-    PRIMARY KEY (emp_no, dept_no)
+PRIMARY KEY (emp_no, dept_no)
 );
 
 CREATE TABLE salaries (
@@ -36,24 +36,22 @@ CREATE TABLE salaries (
 );
 
 CREATE TABLE Dept_Emp (
-dept_no int NOT NULL
-  emp_no int NOT NULL
-  from_date date NOT NULL
-  to_date date NOT NULL
-  FOREIGN KEY (dept_no) REFERENCES (emp_no)
-  FOREIGN KEY (emp_no) REFERENCES (dept_no)
-  PRIMARY KEY (dept_no) REFERENCES (emp_no)
-  PRIMARY KEY (emp_no) REFERENCES (dept_no)
+dept_no int NOT NULL,
+  emp_no varchar NOT NULL,
+  from_date date NOT NULL,
+  to_date date NOT NULL,
+  FOREIGN KEY (dept_no) REFERENCES departments (dept_no),
+  FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
+  PRIMARY KEY (dept_no, emp_no) 
 );
 
 CREATE TABLE Titles (
-emp_no int NOT NULL 
-	title varchar NOT NULL 
-	from_date date NOT NULL 
-	FOREIGN KEY (emp_no) REFERENCES (emp_no)
-	PRIMARY KEY (emp_no) REFERENCES (emp_no)
-	PRIMARY KEY (title)
-	PRIMARY KEY (from_date)
+emp_no int NOT NULL, 
+	title varchar NOT NULL, 
+	from_date date NOT NULL, 
+  to_date date NOT NULL,
+	FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
+	PRIMARY KEY (emp_no, title, from_date, to_date)
 );
 
 SELECT * FROM departments;
