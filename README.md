@@ -14,7 +14,7 @@ Import and export large CSV datasets into pgAdmin.
 Practice using different joins to create new tables in pgAdmin.
 Write basic- to intermediate-level SQL statements.
 Bobby, HR analyst for Pewlet Hackard, to help
-
+determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 ***RESULTS***
 
 ***SUMMARY***
