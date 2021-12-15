@@ -2,7 +2,7 @@
 
 ***RESOURCES***
 
-Pandas, Jupyter notebook, matplotlib, Python, NumPy, SQL
+Pandas, Jupyter notebook, matplotlib, Python, NumPy, using SQL with Postgres/PGadmin
 
 ***OVERVIEW***
 
