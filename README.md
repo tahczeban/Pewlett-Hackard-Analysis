@@ -17,10 +17,13 @@ Bobby, HR analyst for Pewlet Hackard, to help determine the number of retiring e
 
 ***RESULTS***
 
-How many roles need to be filled to make impact?
-
-Are there enough qualified, retirement-redy employees in the depts to mentor next-gen of Pewlett_hHackard employees?
+4 points from 2 deliverables
 
 ***SUMMARY***
+
+How many roles need to be filled to make impact?
+
+Are there enough qualified, retirement-redy employees in the depts to mentor next-gen of Pewlett_Hackard employees?
+
 
 ***REFERENCES*** Google, GitHub, StackOverflow, Bootcamp
