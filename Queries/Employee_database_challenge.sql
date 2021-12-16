@@ -29,6 +29,7 @@ SELECT DISTINCT ON (emp_no)emp_no,
 INTO unique_titles
 FROM retirement_titles
 ORDER BY emp_no ASC,to_date DESC;
+SELECT * FROM unique_titles
 
 --16-19 retiring titles table
 SELECT COUNT(emp_no), title
