@@ -19,8 +19,8 @@ The clean data was then imported and formatted using SQL and data was parsed to 
 
 retirement titles, unique titles tables
 In figure 2, it can be ascertained that the amount of retirees will effect Pewlett_Hackard significantly, paticularlly in the following 2 ways:
-1. Of the 90,398 employees, 57,668 will potentially be retiring, which would translate into a ????% loss of work-force in a short period of time. 
-2. Furthermore, the engineering department would sustain the greatest loss, followed by senior staff, enginners/staff and lastly technical leaders/assistant engineers.
+1. Of the total amount of employees #### , 90,398 employees, will potentially be retiring, which would translate into a ????% loss of work-force in a short period of time. 
+2. Of the 90,398 employees, 57,668 will potentially be retiring, which would translate into a ????% loss of work-force in a short period of time, the engineering department would sustain the greatest loss, followed by senior staff, enginners/staff and lastly technical leaders/assistant engineers.
 
 mentorship eligibility table (1,940)
 Due to the decline in experienced senior staff, a mentorship program ws to be implemented, grouped by title and department, in order to remedy this work-force imbalance. A joining of tables revealed a list of employees who were eligable for mentorshi
