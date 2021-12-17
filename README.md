@@ -13,7 +13,9 @@ The purpose of this project was to convert large CSV files, create database desi
 For the modelling portion, an ERD was created in order to lable, organize, join and visualize the 6 variables considered within Pewlett_Hackard:departments, employees, salaries, managers, employees per department and employee titles (figure 1).
 
 
-The wrangling portion enatailled importing the company data  into the database and clean, join the data for accurate assessment.
+The wrangling portion enatailled importing the company data  into the database and clean, join the data for accurate assessment. 
+
+The clean data was then imported and formatted using SQL and data was parsed to create pertinent tables to attain the required information.
 
 retirement titles, unique titles tables
 In figure 2, it can be ascertained that the amount of retirees will effect Pewlett_Hackard significantly, paticularlly in the following 2 ways:
