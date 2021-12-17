@@ -6,7 +6,7 @@ Pandas, Jupyter notebook, matplotlib, Python, NumPy, PostgreSQL/PGadmin
 
 ***OVERVIEW***
 
-convert large CSV files, create database designs/entity relationship diagrams (ERD's), designe/manage tables, write SQL statements
+The purpose of this project was to convert large CSV files, create database designs/entity relationship diagrams (ERD's), designe/manage tables, write SQL statements
 
 Design an ERD that will apply to the data.
 Create and use a SQL database.
