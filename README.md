@@ -21,11 +21,9 @@ For the modelling portion, an ERD was created in order to label, organize, join 
 
 The wrangling portion enatailed importing the company data  into the database and clean, join the data for accurate assessment. The clean data was then imported and formatted using SQL and data was parsed to create pertinent tables to attain the required information.
 
-
-
 In figure 2, it can be ascertained that the amount of retirees will effect Pewlett_Hackard significantly, paticularlly in the following 2 ways:
-1. Of the total amount of employees #### , 90,398 employees, will potentially be retiring, which would translate into a ????% loss of work-force in a short period of time. 
-2. Of the 90,398 employees, 57,668 will potentially be retiring, which would translate into a ????% loss of work-force in a short period of time, the engineering department would sustain the greatest loss, followed by senior staff, enginners/staff and lastly technical leaders/assistant engineers.
+1. Of the total amount of employees, 90,398 employees, will potentially be retiring, which would translate into a significant loss of work-force in a short period of time. 
+2. Of the 90,398 employees, 57,668 will potentially be retiring, which would translate into a 63.8% loss of senior work-force in a short period of time, the engineering department would sustain the greatest loss, followed by senior staff, enginners/staff and lastly technical leaders/assistant engineers.
 
 <img width="1440" alt="unique_titles table" src="https://user-images.githubusercontent.com/90135381/146650425-58ccf36c-9aa7-4e6f-8af4-a258e399e321.png">
 
@@ -54,9 +52,8 @@ Due to the decline in experienced senior staff, a mentorship program ws to be im
                                 Figure 4: Mentorship Eligibility
 
 
-4 points from 2 deliverables
 
-retitement titles
+
 
 
 ***SUMMARY***
