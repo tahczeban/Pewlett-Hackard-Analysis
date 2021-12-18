@@ -12,18 +12,40 @@ The purpose of this project was to convert large CSV files, create database desi
 **Deliverable 1**
 For the modelling portion, an ERD was created in order to lable, organize, join and visualize the 6 variables considered within Pewlett_Hackard:departments, employees, salaries, managers, employees per department and employee titles (figure 1).
 
+<img width="1440" alt="EmployeeDB" src="https://user-images.githubusercontent.com/90135381/146650339-26ecf634-0ae5-41ae-844b-8b4f3ccef2b8.png">
+                                      
+                                      Figure 1: ERD of EmployeesDB
 
-The wrangling portion enatailled importing the company data  into the database and clean, join the data for accurate assessment. 
 
-The clean data was then imported and formatted using SQL and data was parsed to create pertinent tables to attain the required information.
+
+The wrangling portion enatailled importing the company data  into the database and clean, join the data for accurate assessment. The clean data was then imported and formatted using SQL and data was parsed to create pertinent tables to attain the required information.
+
 
 retirement titles, unique titles tables
 In figure 2, it can be ascertained that the amount of retirees will effect Pewlett_Hackard significantly, paticularlly in the following 2 ways:
 1. Of the total amount of employees #### , 90,398 employees, will potentially be retiring, which would translate into a ????% loss of work-force in a short period of time. 
 2. Of the 90,398 employees, 57,668 will potentially be retiring, which would translate into a ????% loss of work-force in a short period of time, the engineering department would sustain the greatest loss, followed by senior staff, enginners/staff and lastly technical leaders/assistant engineers.
 
+<img width="1440" alt="unique_titles table" src="https://user-images.githubusercontent.com/90135381/146650425-58ccf36c-9aa7-4e6f-8af4-a258e399e321.png">
+
+
+                                  Figure 2: Retirement titles
+                                  
+                                  
+                                  <img width="1440" alt="retirement_titles table" src="https://user-images.githubusercontent.com/90135381/146650441-a2bcd97c-fbbf-4ff2-b177-660ca634b4da.png">
+
+
+                                  Figure 3
+                                  
+                                  
+
 mentorship eligibility table (1,940)
 Due to the decline in experienced senior staff, a mentorship program ws to be implemented, grouped by title and department, in order to remedy this work-force imbalance. A joining of tables revealed a list of employees who were eligable for mentorshi
+
+<img width="1440" alt="mentorship_eligibility table" src="https://user-images.githubusercontent.com/90135381/146650455-4cf43382-09cc-4f16-aa00-2f184d64a057.png">
+
+
+                                Figure 4
 
 
 4 points from 2 deliverables
