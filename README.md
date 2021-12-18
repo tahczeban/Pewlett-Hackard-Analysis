@@ -63,21 +63,25 @@ To answer the following questions, a unique titles dept table was created in ord
                                 Figuree 5: Unique Titles Dept
 
 How many roles need to be filled to make impact? The following is the tally, by dept:
--sales: 14,623
--Research: 5,325
--Management: 5,173
--Production: 20,561
--Marketing: 5,296
--HR: 5,027
--Finance: 4,858
--Development: 23,937
--Customer Service: 5,628
+  
+            -sales: 14,623
+            -Research: 5,325
+            -Management: 5,173
+            -Production: 20,561
+            -Marketing: 5,296
+            -HR: 5,027
+            -Finance: 4,858
+            -Development: 23,937
+            -Customer Service: 5,628
+
+
 
 <img width="1440" alt="rolls_to_fill" src="https://user-images.githubusercontent.com/90135381/146655210-50f1193d-c698-41fa-babe-30477494377b.png">
 
 
                                 Figure 6: Rolls to Fill
                                 
+
 
 Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 7, there are over 60,000 qualified staff currently available to mentor, with over 1500 mentees; therefore, allowing for enough availability for mentorship, but not enough people to fill the positions.
 
