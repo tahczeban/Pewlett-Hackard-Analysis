@@ -42,7 +42,7 @@ In figure 2, it can be ascertained that the amount of retirees will effect Pewle
   **Deliverable 2**
 
 
-Due to the decline in experienced senior staff, a mentorship program ws to be implemented, grouped by title and department, in order to remedy this work-force imbalance. A joining of tables revealed a list of employees who were eligable for mentorship.
+Due to the decline in experienced senior staff, a mentorship program was to be implemented, grouped by title and department, in order to remedy this work-force imbalance. A joining of tables revealed a list of employees who were eligable for mentorship.
 
 <img width="1440" alt="Mentorship_Eligibility" src="https://user-images.githubusercontent.com/90135381/146651393-13bb6da4-5b63-4fd8-80d0-d0ea9f8532ff.png">
 
@@ -70,7 +70,7 @@ How many roles need to be filled to make impact?
                                 Figure 5: Rolls to Fill
                                 
 
-Are there enough qualified, retirement-redy employees in the depts to mentor next-gen of Pewlett_Hackard employees?
+Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 6, there are 
 
 <img width="1440" alt="qualified staff" src="https://user-images.githubusercontent.com/90135381/146655248-9c986efe-8f5b-4dfb-a3ba-47867f017c41.png">
 
