@@ -62,7 +62,16 @@ Due to the decline in experienced senior staff, a mentorship program was to be i
 
 ***SUMMARY***
 
-How many roles need to be filled to make impact? 
+How many roles need to be filled to make impact? Follows is the tally, by dept:
+-sales: 14623
+-Research: 5,325
+-Management: 5,173
+-Production: 20,561
+-Marketing: 5,296
+-HR: 5,027
+-Finance: 4,858
+-Development: 23,937
+-Customer Service: 5,628
 
 <img width="1440" alt="rolls_to_fill" src="https://user-images.githubusercontent.com/90135381/146655210-50f1193d-c698-41fa-babe-30477494377b.png">
 
@@ -70,7 +79,7 @@ How many roles need to be filled to make impact?
                                 Figure 5: Rolls to Fill
                                 
 
-Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 6, there are 
+Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 6, there are over 60,000 qualified staff to mentor.
 
 <img width="1440" alt="qualified staff" src="https://user-images.githubusercontent.com/90135381/146655248-9c986efe-8f5b-4dfb-a3ba-47867f017c41.png">
 
