@@ -83,7 +83,7 @@ How many roles need to be filled to make impact? The following is the tally, by 
                                 
 
 
-Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 7, there are over 60,000 qualified staff currently available to mentor, with over 1500 mentees; therefore, allowing for enough availability for mentorship, but not enough people to fill the positions.
+Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 7, there are over 60,000 qualified staff currently available to mentor, with over 1500 mentees; therefore, allowing for enough availability for mentorship, but not enough people to replace those positions within Pewlett Hackard. Perhaps a mentorship incentive package or an extension on mentorship time could assist the company in maintaining an adequate work-force flow.
 
 <img width="1440" alt="qualified staff" src="https://user-images.githubusercontent.com/90135381/146655248-9c986efe-8f5b-4dfb-a3ba-47867f017c41.png">
 
