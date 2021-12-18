@@ -61,9 +61,15 @@ Due to the decline in experienced senior staff, a mentorship program was to be i
 
 
 ***SUMMARY***
+To answer the following questions, a unique titles dept table was created in order to analyze the employee number, name, title and department name. 
 
-How many roles need to be filled to make impact? Follows is the tally, by dept:
--sales: 14623
+
+<img width="1440" alt="unique_titles table" src="https://user-images.githubusercontent.com/90135381/146655762-1f3897bd-1024-4daf-8813-2e55e8ed83dd.png">
+
+                                Figuree 5: Unique Titles DEpt
+
+How many roles need to be filled to make impact? The following is the tally, by dept:
+-sales: 14,623
 -Research: 5,325
 -Management: 5,173
 -Production: 20,561
@@ -76,7 +82,7 @@ How many roles need to be filled to make impact? Follows is the tally, by dept:
 <img width="1440" alt="rolls_to_fill" src="https://user-images.githubusercontent.com/90135381/146655210-50f1193d-c698-41fa-babe-30477494377b.png">
 
 
-                                Figure 5: Rolls to Fill
+                                Figure 6: Rolls to Fill
                                 
 
 Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 6, there are over 60,000 qualified staff to mentor.
@@ -84,6 +90,6 @@ Are there enough qualified, retirement-ready employees in the depts to mentor ne
 <img width="1440" alt="qualified staff" src="https://user-images.githubusercontent.com/90135381/146655248-9c986efe-8f5b-4dfb-a3ba-47867f017c41.png">
 
 
-                                Figure 6: Qualified Staff
+                                Figure 7: Qualified Staff
 
 ***REFERENCES*** Google, GitHub, StackOverflow, Bootcamp
