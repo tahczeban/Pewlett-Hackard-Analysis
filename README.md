@@ -10,15 +10,15 @@ The purpose of this project was to convert large CSV files, create database desi
 
 ***RESULTS***
 **Deliverable 1**
-For the modelling portion, an ERD was created in order to lable, organize, join and visualize the 6 variables considered within Pewlett_Hackard:departments, employees, salaries, managers, employees per department and employee titles (figure 1).
+For the modelling portion, an ERD was created in order to label, organize, join and visualize the 6 variables considered within Pewlett_Hackard:departments, employees, salaries, managers, employees per department and employee titles (figure 1).
 
 <img width="1440" alt="EmployeeDB" src="https://user-images.githubusercontent.com/90135381/146650339-26ecf634-0ae5-41ae-844b-8b4f3ccef2b8.png">
                                       
-                                      Figure 1: ERD of EmployeesDB
+                                    Figure 1: ERD of EmployeesDB
 
 
 
-The wrangling portion enatailled importing the company data  into the database and clean, join the data for accurate assessment. The clean data was then imported and formatted using SQL and data was parsed to create pertinent tables to attain the required information.
+The wrangling portion enatailed importing the company data  into the database and clean, join the data for accurate assessment. The clean data was then imported and formatted using SQL and data was parsed to create pertinent tables to attain the required information.
 
 
 retirement titles, unique titles tables
@@ -29,13 +29,15 @@ In figure 2, it can be ascertained that the amount of retirees will effect Pewle
 <img width="1440" alt="unique_titles table" src="https://user-images.githubusercontent.com/90135381/146650425-58ccf36c-9aa7-4e6f-8af4-a258e399e321.png">
 
 
-                                  Figure 2: Retirement titles
+                                  Figure 2: Unique Titles
                                   
                                   
-                                  <img width="1440" alt="retirement_titles table" src="https://user-images.githubusercontent.com/90135381/146650441-a2bcd97c-fbbf-4ff2-b177-660ca634b4da.png">
+<img width="1440" alt="Retirement_Titles" src="https://user-images.githubusercontent.com/90135381/146651226-b47b9702-5711-4b45-9370-e48fb46e41e7.png">
+
+                                  
 
 
-                                  Figure 3
+                                  Figure 3: Retirement Titles
                                   
                                   
 
