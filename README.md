@@ -44,10 +44,12 @@ In figure 2, it can be ascertained that the amount of retirees will effect Pewle
 mentorship eligibility table (1,940)
 Due to the decline in experienced senior staff, a mentorship program ws to be implemented, grouped by title and department, in order to remedy this work-force imbalance. A joining of tables revealed a list of employees who were eligable for mentorshi
 
-<img width="1440" alt="mentorship_eligibility table" src="https://user-images.githubusercontent.com/90135381/146650455-4cf43382-09cc-4f16-aa00-2f184d64a057.png">
+<img width="1440" alt="Mentorship_Eligibility" src="https://user-images.githubusercontent.com/90135381/146651393-13bb6da4-5b63-4fd8-80d0-d0ea9f8532ff.png">
 
 
-                                Figure 4
+
+
+                                Figure 4: Mentorship Eligibility
 
 
 4 points from 2 deliverables
