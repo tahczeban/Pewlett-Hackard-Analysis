@@ -52,21 +52,15 @@ Due to the decline in experienced senior staff, a mentorship program was to be i
                                 Figure 4: Mentorship Eligibility
 
 3. This table reveals that there are not enough mentees available to fill all of the roles of the retiring personel at Pewlett Hackard, particularly in the senior divisions.
-4. 
-
-
-                                
-                                
-          
-
-
+4. As determined by the tables below, the Development and Production departments, will require the most rolls to be filled by the mentees.                              
+                            
 ***SUMMARY***
 To answer the following questions, a unique titles dept table was created in order to analyze the employee number, name, title and department name. 
 
 
 <img width="1440" alt="unique_titles table" src="https://user-images.githubusercontent.com/90135381/146655762-1f3897bd-1024-4daf-8813-2e55e8ed83dd.png">
 
-                                Figuree 5: Unique Titles DEpt
+                                Figuree 5: Unique Titles Dept
 
 How many roles need to be filled to make impact? The following is the tally, by dept:
 -sales: 14,623
@@ -85,7 +79,7 @@ How many roles need to be filled to make impact? The following is the tally, by 
                                 Figure 6: Rolls to Fill
                                 
 
-Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 6, there are over 60,000 qualified staff to mentor.
+Are there enough qualified, retirement-ready employees in the depts to mentor next-gen of Pewlett_Hackard employees? According to figure 7, there are over 60,000 qualified staff currently available to mentor, with over 1500 mentees; therefore, allowing for enough availability for mentorship, but not enough people to fill the positions.
 
 <img width="1440" alt="qualified staff" src="https://user-images.githubusercontent.com/90135381/146655248-9c986efe-8f5b-4dfb-a3ba-47867f017c41.png">
 
