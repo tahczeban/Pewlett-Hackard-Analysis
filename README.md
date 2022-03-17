@@ -1,13 +1,22 @@
 # Pewlett-Hackard-Analysis
 
+![image](https://user-images.githubusercontent.com/90135381/158723028-aa303c32-0ba2-492a-8070-41058029e851.jpeg)
+
+
+
+_______________
 ***RESOURCES***
 
 Pandas, Jupyter notebook, matplotlib, Python, NumPy, PostgreSQL/PGadmin
 
+IMAGE: obtained from: https://www.nicepng.com/ourpic/u2t4y3w7a9t4r5e6_computer-desk-png-office-room-vector-png/
+
+______________
 ***OVERVIEW***
 
-The purpose of this project was to convert large CSV files, create database designs/entity relationship diagrams (ERD's), designe/manage tables and write SQL statements for Pewlett_Hackard in order to help them determine the "silver tsunami" of employees who are about to retire. Bobby, an HR analyst for Pewlett_Hackard, would specifically like to know how many retiring employees per title who were born between January 1, 1952 and December 31, 1955 there are. Additionally, he would like to identify employees who are eligible to participate in a mentorship program to assist in filling those employee gaps. 
+The purpose of this project was to convert large CSV files, create database designs/entity relationship diagrams (ERD's), design/manage tables and write SQL statements for Pewlett_Hackard in order to help them determine the "silver tsunami" of employees who are about to retire. Bobby, an HR analyst for Pewlett_Hackard, would specifically like to know how many retiring employees per title who were born between January 1, 1952 and December 31, 1955 there are. Additionally, he would like to identify employees who are eligible to participate in a mentorship program to assist in filling those employee gaps. 
 
+_____________
 ***RESULTS***
 
 **Deliverable 1**
@@ -53,7 +62,8 @@ Due to the decline in experienced senior staff, a mentorship program was to be i
 
 3. This table reveals that there are not enough mentees available to fill all of the roles of the retiring personel at Pewlett Hackard, particularly in the senior divisions.
 4. As determined by the tables below, the Development and Production departments, will require the most rolls to be filled by the mentees.                              
-                            
+ 
+_____________ 
 ***SUMMARY***
 To answer the following questions, a unique titles dept table was created in order to analyze the employee number, name, title and department name. 
 
@@ -89,5 +99,5 @@ Are there enough qualified, retirement-ready employees in the depts to mentor ne
 
 
                                 Figure 7: Qualified Staff
-
+__________________
 ***REFERENCES*** Google, GitHub, StackOverflow, Bootcamp
