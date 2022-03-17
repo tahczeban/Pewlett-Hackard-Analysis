@@ -1,5 +1,7 @@
 # Pewlett-Hackard-Analysis
 
+MODULE 7
+
 ![image](https://user-images.githubusercontent.com/90135381/158723028-aa303c32-0ba2-492a-8070-41058029e851.jpeg)
 
 
